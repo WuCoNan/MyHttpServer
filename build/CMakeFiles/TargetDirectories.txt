@@ -1,0 +1,3 @@
+/home/wuconan/codes/MyHttpServer/build/CMakeFiles/MyhttpServer.dir
+/home/wuconan/codes/MyHttpServer/build/CMakeFiles/edit_cache.dir
+/home/wuconan/codes/MyHttpServer/build/CMakeFiles/rebuild_cache.dir
