@@ -45,6 +45,8 @@ add_executable(MyhttpServer
     src/MenuHandler.cpp
     src/AiGame.cpp
     src/GameStartHandler.cpp
+    src/GameMoveHandler.cpp
+    src/GameRestartHandler.cpp
     )
 
 # 链接 pthread 库

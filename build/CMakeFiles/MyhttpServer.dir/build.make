@@ -517,6 +517,34 @@ CMakeFiles/MyhttpServer.dir/src/GameStartHandler.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/src/GameStartHandler.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/src/GameStartHandler.cpp -o CMakeFiles/MyhttpServer.dir/src/GameStartHandler.cpp.s
 
+CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
+CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.o: /home/wuconan/codes/MyHttpServer/src/GameMoveHandler.cpp
+CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.o -MF CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.o.d -o CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/src/GameMoveHandler.cpp
+
+CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/src/GameMoveHandler.cpp > CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.i
+
+CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/src/GameMoveHandler.cpp -o CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.s
+
+CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
+CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.o: /home/wuconan/codes/MyHttpServer/src/GameRestartHandler.cpp
+CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.o -MF CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.o.d -o CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/src/GameRestartHandler.cpp
+
+CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/src/GameRestartHandler.cpp > CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.i
+
+CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/src/GameRestartHandler.cpp -o CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.s
+
 # Object files for target MyhttpServer
 MyhttpServer_OBJECTS = \
 "CMakeFiles/MyhttpServer.dir/test.cpp.o" \
@@ -550,7 +578,9 @@ MyhttpServer_OBJECTS = \
 "CMakeFiles/MyhttpServer.dir/src/HttpSession.cpp.o" \
 "CMakeFiles/MyhttpServer.dir/src/MenuHandler.cpp.o" \
 "CMakeFiles/MyhttpServer.dir/src/AiGame.cpp.o" \
-"CMakeFiles/MyhttpServer.dir/src/GameStartHandler.cpp.o"
+"CMakeFiles/MyhttpServer.dir/src/GameStartHandler.cpp.o" \
+"CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.o" \
+"CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.o"
 
 # External object files for target MyhttpServer
 MyhttpServer_EXTERNAL_OBJECTS =
@@ -587,10 +617,12 @@ MyhttpServer: CMakeFiles/MyhttpServer.dir/src/HttpSession.cpp.o
 MyhttpServer: CMakeFiles/MyhttpServer.dir/src/MenuHandler.cpp.o
 MyhttpServer: CMakeFiles/MyhttpServer.dir/src/AiGame.cpp.o
 MyhttpServer: CMakeFiles/MyhttpServer.dir/src/GameStartHandler.cpp.o
+MyhttpServer: CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.o
+MyhttpServer: CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.o
 MyhttpServer: CMakeFiles/MyhttpServer.dir/build.make
 MyhttpServer: /usr/lib/x86_64-linux-gnu/libmysqlclient.so
 MyhttpServer: CMakeFiles/MyhttpServer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Linking CXX executable MyhttpServer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Linking CXX executable MyhttpServer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/MyhttpServer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

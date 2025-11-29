@@ -331,6 +331,55 @@
 
         // 重新开始游戏
         function restartGame() {
+            // 显示加载状态
+            showThinkingMessage();
+            
+            // 获取用户ID
+            const userId = sessionStorage.getItem('userId');
+            if (!userId) {
+                alert('用户未登录，请重新登录！');
+                window.location.href = '/entry';
+                return;
+            }
+
+            // 向后端发送重启请求
+            fetch('/aiBot/restart', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ userId: userId })
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('网络响应不正常');
+                }
+                return response.json();
+            })
+            .then(data => {
+                // 隐藏加载状态
+                hideThinkingMessage();
+                
+                if (data.status === 'ok') {
+                    // 服务器重启成功，重置前端状态
+                    resetFrontendGame();
+                } else {
+                    // 服务器返回错误
+                    alert('重启游戏失败: ' + (data.message || '未知错误'));
+                    console.error('重启失败:', data);
+                }
+            })
+            .catch(error => {
+                // 隐藏加载状态
+                hideThinkingMessage();
+                
+                console.error('重启游戏请求失败:', error);
+                alert('重启游戏失败，请检查网络连接后重试！');
+            });
+        }
+
+        // 重置前端游戏状态（从原来的restartGame函数中提取）
+        function resetFrontendGame() {
             isGameOver = false; // 重置游戏结束标志
             isThinking = false; // 重置 AI 思考状态标志
             gameState.boardState = Array(15).fill().map(() => Array(15).fill("empty")); // 重新初始化棋盘状态
@@ -344,6 +393,8 @@
             document.getElementById('loading-animation').style.display = 'none'; // 隐藏加载动画
             gameState.currentPlayer = 'black'; // 重置当前玩家
             gameState.isGameActive = true; // 重置游戏状态
+            
+            console.log('游戏已重启');
         }
 
         // 添加事件监听

@@ -1,87 +1,104 @@
-[INFO]2025-11-27 16:53:31 : Acceptor:   listening   on   port   8080
-[INFO]2025-11-27 16:53:43 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:43 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:43 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:43 : close 
-[INFO]2025-11-27 16:53:45 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:46 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:46 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:46 : close 
-[INFO]2025-11-27 16:53:46 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:46 : HttpServer:   route   error
-[INFO]2025-11-27 16:53:46 : HttpServer:   new   connection  28  established
-[WARNING]2025-11-27 16:53:46 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:46 : close 
-[ERROR]2025-11-27 16:53:46 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:46 : server   removes   a   connnection   with   Fd   28
-[WARNING]2025-11-27 16:53:46 : close 
-[INFO]2025-11-27 16:53:46 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:46 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:46 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:46 : close 
-[INFO]2025-11-27 16:53:46 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:46 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:46 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:46 : close 
-[INFO]2025-11-27 16:53:46 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:46 : HttpServer:   route   error
-[INFO]2025-11-27 16:53:46 : HttpServer:   new   connection  28  established
-[ERROR]2025-11-27 16:53:46 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:46 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:46 : close 
-[WARNING]2025-11-27 16:53:46 : server   removes   a   connnection   with   Fd   28
-[WARNING]2025-11-27 16:53:46 : close 
-[INFO]2025-11-27 16:53:46 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:46 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:46 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:46 : close 
-[INFO]2025-11-27 16:53:46 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:46 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:46 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:46 : close 
-[INFO]2025-11-27 16:53:46 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:46 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:46 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:46 : close 
-[INFO]2025-11-27 16:53:52 : HttpServer:   new   connection  27  established
-[INFO]2025-11-27 16:53:52 : User man logged in successfully.
-[ERROR]2025-11-27 16:53:52 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:52 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:52 : close 
-[INFO]2025-11-27 16:53:52 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:52 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:52 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:52 : close 
-[INFO]2025-11-27 16:53:52 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:52 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:52 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:52 : close 
-[INFO]2025-11-27 16:53:52 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:52 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:52 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:52 : close 
-[INFO]2025-11-27 16:53:52 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:52 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:52 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:52 : close 
-[INFO]2025-11-27 16:53:52 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:52 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:52 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:52 : close 
-[INFO]2025-11-27 16:53:52 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:52 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:52 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:52 : close 
-[INFO]2025-11-27 16:53:52 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:52 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:52 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:52 : close 
-[INFO]2025-11-27 16:53:52 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:52 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:52 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:52 : close 
-[INFO]2025-11-27 16:53:52 : HttpServer:   new   connection  27  established
-[ERROR]2025-11-27 16:53:52 : HttpServer:   route   error
-[WARNING]2025-11-27 16:53:52 : server   removes   a   connnection   with   Fd   27
-[WARNING]2025-11-27 16:53:52 : close 
-[INFO]2025-11-27 16:53:58 : HttpServer:   new   connection  27  established
+[INFO]2025-11-29 16:13:43 : Acceptor:   listening   on   port   8080
+[INFO]2025-11-29 16:13:45 : HttpServer:   new   connection  27  established
+[ERROR]2025-11-29 16:13:45 : HttpServer:   route   error
+[INFO]2025-11-29 16:13:45 : HttpServer:   new   connection  28  established
+[ERROR]2025-11-29 16:13:45 : HttpServer:   route   error
+[INFO]2025-11-29 16:13:45 : HttpServer:   new   connection  29  established
+[ERROR]2025-11-29 16:13:45 : HttpServer:   route   error
+[WARNING]2025-11-29 16:13:45 : server   removes   a   connnection   with   Fd   28
+[WARNING]2025-11-29 16:13:45 : close 
+[WARNING]2025-11-29 16:13:45 : server   removes   a   connnection   with   Fd   27
+[WARNING]2025-11-29 16:13:45 : close 
+[WARNING]2025-11-29 16:13:45 : server   removes   a   connnection   with   Fd   29
+[WARNING]2025-11-29 16:13:45 : close 
+[INFO]2025-11-29 16:13:45 : HttpServer:   new   connection  27  established
+[ERROR]2025-11-29 16:13:45 : HttpServer:   route   error
+[WARNING]2025-11-29 16:13:45 : server   removes   a   connnection   with   Fd   27
+[WARNING]2025-11-29 16:13:45 : close 
+[INFO]2025-11-29 16:13:45 : HttpServer:   new   connection  27  established
+[ERROR]2025-11-29 16:13:45 : HttpServer:   route   error
+[WARNING]2025-11-29 16:13:45 : server   removes   a   connnection   with   Fd   27
+[WARNING]2025-11-29 16:13:45 : close 
+[INFO]2025-11-29 16:13:45 : HttpServer:   new   connection  28  established
+[ERROR]2025-11-29 16:13:45 : HttpServer:   route   error
+[WARNING]2025-11-29 16:13:45 : server   removes   a   connnection   with   Fd   28
+[INFO]2025-11-29 16:13:45 : HttpServer:   new   connection  27  established
+[ERROR]2025-11-29 16:13:45 : HttpServer:   route   error
+[WARNING]2025-11-29 16:13:45 : close 
+[INFO]2025-11-29 16:13:45 : HttpServer:   new   connection  28  established
+[WARNING]2025-11-29 16:13:45 : server   removes   a   connnection   with   Fd   27
+[WARNING]2025-11-29 16:13:45 : close 
+[ERROR]2025-11-29 16:13:45 : HttpServer:   route   error
+[WARNING]2025-11-29 16:13:45 : server   removes   a   connnection   with   Fd   28
+[WARNING]2025-11-29 16:13:45 : close 
+[INFO]2025-11-29 16:13:45 : HttpServer:   new   connection  27  established
+[ERROR]2025-11-29 16:13:45 : HttpServer:   route   error
+[INFO]2025-11-29 16:13:45 : HttpServer:   new   connection  28  established
+[WARNING]2025-11-29 16:13:45 : server   removes   a   connnection   with   Fd   27
+[WARNING]2025-11-29 16:13:45 : close 
+[ERROR]2025-11-29 16:13:45 : HttpServer:   route   error
+[WARNING]2025-11-29 16:13:45 : server   removes   a   connnection   with   Fd   28
+[WARNING]2025-11-29 16:13:45 : close 
+[INFO]2025-11-29 16:13:51 : HttpServer:   new   connection  27  established
+[INFO]2025-11-29 16:13:51 : User man logged in successfully.
+[ERROR]2025-11-29 16:13:51 : HttpServer:   route   error
+[WARNING]2025-11-29 16:13:51 : server   removes   a   connnection   with   Fd   27
+[WARNING]2025-11-29 16:13:51 : close 
+[INFO]2025-11-29 16:13:51 : HttpServer:   new   connection  27  established
+[ERROR]2025-11-29 16:13:51 : HttpServer:   route   error
+[WARNING]2025-11-29 16:13:51 : server   removes   a   connnection   with   Fd   27
+[WARNING]2025-11-29 16:13:51 : close 
+[INFO]2025-11-29 16:13:51 : HttpServer:   new   connection  27  established
+[ERROR]2025-11-29 16:13:51 : HttpServer:   route   error
+[WARNING]2025-11-29 16:13:51 : server   removes   a   connnection   with   Fd   27
+[WARNING]2025-11-29 16:13:51 : close 
+[INFO]2025-11-29 16:13:51 : HttpServer:   new   connection  27  established
+[ERROR]2025-11-29 16:13:51 : HttpServer:   route   error
+[WARNING]2025-11-29 16:13:51 : server   removes   a   connnection   with   Fd   27
+[INFO]2025-11-29 16:13:51 : HttpServer:   new   connection  28  established
+[WARNING]2025-11-29 16:13:51 : close 
+[ERROR]2025-11-29 16:13:51 : HttpServer:   route   error
+[WARNING]2025-11-29 16:13:51 : server   removes   a   connnection   with   Fd   28
+[WARNING]2025-11-29 16:13:51 : close 
+[INFO]2025-11-29 16:13:51 : HttpServer:   new   connection  27  established
+[ERROR]2025-11-29 16:13:51 : HttpServer:   route   error
+[WARNING]2025-11-29 16:13:51 : server   removes   a   connnection   with   Fd   27
+[WARNING]2025-11-29 16:13:51 : close 
+[INFO]2025-11-29 16:13:51 : HttpServer:   new   connection  27  established
+[ERROR]2025-11-29 16:13:51 : HttpServer:   route   error
+[WARNING]2025-11-29 16:13:51 : server   removes   a   connnection   with   Fd   27
+[WARNING]2025-11-29 16:13:51 : close 
+[INFO]2025-11-29 16:13:51 : HttpServer:   new   connection  27  established
+[ERROR]2025-11-29 16:13:51 : HttpServer:   route   error
+[WARNING]2025-11-29 16:13:51 : server   removes   a   connnection   with   Fd   27
+[WARNING]2025-11-29 16:13:51 : close 
+[INFO]2025-11-29 16:13:51 : HttpServer:   new   connection  27  established
+[ERROR]2025-11-29 16:13:51 : HttpServer:   route   error
+[WARNING]2025-11-29 16:13:51 : server   removes   a   connnection   with   Fd   27
+[WARNING]2025-11-29 16:13:51 : close 
+[INFO]2025-11-29 16:13:51 : HttpServer:   new   connection  27  established
+[ERROR]2025-11-29 16:13:51 : HttpServer:   route   error
+[WARNING]2025-11-29 16:13:51 : server   removes   a   connnection   with   Fd   27
+[WARNING]2025-11-29 16:13:51 : close 
+[INFO]2025-11-29 16:13:53 : HttpServer:   new   connection  27  established
+[INFO]2025-11-29 16:13:53 : Game started for user 2 against AI.
+[INFO]2025-11-29 16:13:56 : AI made a move for user 2: (0, 1).
+[INFO]2025-11-29 16:13:58 : AI made a move for user 2: (0, 2).
+[INFO]2025-11-29 16:13:59 : AI made a move for user 2: (0, 3).
+[INFO]2025-11-29 16:14:00 : AI made a move for user 2: (0, 4).
+[INFO]2025-11-29 16:14:01 : AI wins the game against user 2.
+[INFO]2025-11-29 16:14:07 : Game restarted for user 2 against AI.
+[INFO]2025-11-29 16:14:08 : AI made a move for user 2: (0, 0).
+[INFO]2025-11-29 16:14:08 : AI made a move for user 2: (0, 1).
+[INFO]2025-11-29 16:14:09 : AI made a move for user 2: (0, 2).
+[INFO]2025-11-29 16:14:09 : Game restarted for user 2 against AI.
+[INFO]2025-11-29 16:14:10 : AI made a move for user 2: (0, 0).
+[INFO]2025-11-29 16:14:11 : AI made a move for user 2: (0, 2).
+[INFO]2025-11-29 16:14:12 : Game restarted for user 2 against AI.
+[ERROR]2025-11-29 16:14:18 : HttpServer:   route   error
+[WARNING]2025-11-29 16:14:18 : server   removes   a   connnection   with   Fd   27
+[WARNING]2025-11-29 16:14:18 : close 
+[INFO]2025-11-29 16:14:18 : HttpServer:   new   connection  28  established
+[ERROR]2025-11-29 16:14:18 : HttpServer:   route   error
+[WARNING]2025-11-29 16:14:18 : server   removes   a   connnection   with   Fd   28
+[WARNING]2025-11-29 16:14:18 : close 

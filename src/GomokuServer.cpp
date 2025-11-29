@@ -5,6 +5,8 @@
 #include "LoginHandler.hpp"
 #include "MenuHandler.hpp"
 #include "GameStartHandler.hpp"
+#include "GameMoveHandler.hpp"
+#include "GameRestartHandler.hpp"
 GomokuServer::GomokuServer()
 {
     initialize();
@@ -35,6 +37,8 @@ void GomokuServer::initializeRoutes()
     httpServer_.registerPost("/login",std::make_shared<LoginHandler>(this));
     httpServer_.registerGet("/menu",std::make_shared<MenuHandler>(this));
     httpServer_.registerGet("/aiBot/start",std::make_shared<GameStartHandler>(this));
+    httpServer_.registerPost("/aiBot/move",std::make_shared<GameMoveHandler>(this));
+    httpServer_.registerPost("/aiBot/restart",std::make_shared<GameRestartHandler>(this));
 }
 
 void GomokuServer::initializeDatabase()

@@ -324,4 +324,6 @@ CMakeFiles/MyhttpServer.dir/src/GomokuServer.cpp.o: \
  /home/wuconan/codes/MyHttpServer/include/RegisterHandle.hpp \
  /home/wuconan/codes/MyHttpServer/include/LoginHandler.hpp \
  /home/wuconan/codes/MyHttpServer/include/MenuHandler.hpp \
- /home/wuconan/codes/MyHttpServer/include/GameStartHandler.hpp
+ /home/wuconan/codes/MyHttpServer/include/GameStartHandler.hpp \
+ /home/wuconan/codes/MyHttpServer/include/GameMoveHandler.hpp \
+ /home/wuconan/codes/MyHttpServer/include/GameRestartHandler.hpp

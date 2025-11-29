@@ -3,8 +3,10 @@
 #include "HttpRequest.hpp"
 #include "HttpResponse.hpp"
 #include "Logger.hpp"
+#include "AiGame.hpp"
 #include <fstream>
 #include <nlohmann/json.hpp>
+
 void GameStartHandler::handle(const HttpRequest& request,HttpResponse* response)
 {
     auto session=server_->getSessionManager()->getSession(request,response);
@@ -46,4 +48,8 @@ void GameStartHandler::handle(const HttpRequest& request,HttpResponse* response)
     response->setContentType("text/html");
     response->setContentLength(content.size());
     response->setBody(content);
+
+    std::string userId=session->getData("userId");
+    server_->activeGames_[userId]=std::make_shared<AiGame>(userId);
+    LOG_INFO("Game started for user %s against AI.\n",userId.c_str());
 }

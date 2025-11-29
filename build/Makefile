@@ -345,6 +345,54 @@ src/EventLoopThreadPool.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyhttpServer.dir/build.make CMakeFiles/MyhttpServer.dir/src/EventLoopThreadPool.cpp.s
 .PHONY : src/EventLoopThreadPool.cpp.s
 
+src/GameMoveHandler.o: src/GameMoveHandler.cpp.o
+.PHONY : src/GameMoveHandler.o
+
+# target to build an object file
+src/GameMoveHandler.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyhttpServer.dir/build.make CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.o
+.PHONY : src/GameMoveHandler.cpp.o
+
+src/GameMoveHandler.i: src/GameMoveHandler.cpp.i
+.PHONY : src/GameMoveHandler.i
+
+# target to preprocess a source file
+src/GameMoveHandler.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyhttpServer.dir/build.make CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.i
+.PHONY : src/GameMoveHandler.cpp.i
+
+src/GameMoveHandler.s: src/GameMoveHandler.cpp.s
+.PHONY : src/GameMoveHandler.s
+
+# target to generate assembly for a file
+src/GameMoveHandler.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyhttpServer.dir/build.make CMakeFiles/MyhttpServer.dir/src/GameMoveHandler.cpp.s
+.PHONY : src/GameMoveHandler.cpp.s
+
+src/GameRestartHandler.o: src/GameRestartHandler.cpp.o
+.PHONY : src/GameRestartHandler.o
+
+# target to build an object file
+src/GameRestartHandler.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyhttpServer.dir/build.make CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.o
+.PHONY : src/GameRestartHandler.cpp.o
+
+src/GameRestartHandler.i: src/GameRestartHandler.cpp.i
+.PHONY : src/GameRestartHandler.i
+
+# target to preprocess a source file
+src/GameRestartHandler.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyhttpServer.dir/build.make CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.i
+.PHONY : src/GameRestartHandler.cpp.i
+
+src/GameRestartHandler.s: src/GameRestartHandler.cpp.s
+.PHONY : src/GameRestartHandler.s
+
+# target to generate assembly for a file
+src/GameRestartHandler.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyhttpServer.dir/build.make CMakeFiles/MyhttpServer.dir/src/GameRestartHandler.cpp.s
+.PHONY : src/GameRestartHandler.cpp.s
+
 src/GameStartHandler.o: src/GameStartHandler.cpp.o
 .PHONY : src/GameStartHandler.o
 
@@ -933,6 +981,12 @@ help:
 	@echo "... src/EventLoopThreadPool.o"
 	@echo "... src/EventLoopThreadPool.i"
 	@echo "... src/EventLoopThreadPool.s"
+	@echo "... src/GameMoveHandler.o"
+	@echo "... src/GameMoveHandler.i"
+	@echo "... src/GameMoveHandler.s"
+	@echo "... src/GameRestartHandler.o"
+	@echo "... src/GameRestartHandler.i"
+	@echo "... src/GameRestartHandler.s"
 	@echo "... src/GameStartHandler.o"
 	@echo "... src/GameStartHandler.i"
 	@echo "... src/GameStartHandler.s"
