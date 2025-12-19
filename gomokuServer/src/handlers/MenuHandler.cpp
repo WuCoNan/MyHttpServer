@@ -25,7 +25,7 @@ void MenuHandler::handle(const HttpRequest& request,HttpResponse* response)
         return;
     }
     
-    std::ifstream file("resource/menu.html",std::ios::in|std::ios::binary);
+    std::ifstream file("../resource/menu.html",std::ios::in|std::ios::binary);
     if(!file.is_open())
     {
         response->setStatusCode(HttpResponse::StatusCode::InternalServerError); 

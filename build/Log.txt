@@ -1,0 +1,92 @@
+[INFO]2025-12-19 16:44:03 : HttpServer:   SSL   context   initialized   successfully
+[INFO]2025-12-19 16:44:03 : Acceptor:   listening   on   port   8080
+[INFO]2025-12-19 16:44:09 : HttpServer:   new   connection  27  established
+[INFO]2025-12-19 16:44:09 : SslConnection:   SSL   handshake   in   progress,   need   more   data
+[INFO]2025-12-19 16:44:09 : SslConnection:   SSL   handshake   completed
+[INFO]2025-12-19 16:44:09 : SslConnection:   TLS   VERSION:    TLSv1.3
+[INFO]2025-12-19 16:44:09 : SslConnection:   TLS   CIPHER:     TLS_AES_128_GCM_SHA256
+[ERROR]2025-12-19 16:44:10 : HttpServer:   route   error
+[INFO]2025-12-19 16:44:10 : HttpServer:   new   connection  28  established
+[INFO]2025-12-19 16:44:10 : HttpServer:   connection  27  destroyed
+[WARNING]2025-12-19 16:44:10 : close 
+[INFO]2025-12-19 16:44:10 : SslConnection:   SSL   handshake   in   progress,   need   more   data
+[INFO]2025-12-19 16:44:10 : SslConnection:   SSL   handshake   completed
+[INFO]2025-12-19 16:44:10 : SslConnection:   TLS   VERSION:    TLSv1.3
+[INFO]2025-12-19 16:44:10 : SslConnection:   TLS   CIPHER:     TLS_AES_128_GCM_SHA256
+[ERROR]2025-12-19 16:44:10 : HttpServer:   route   error
+[INFO]2025-12-19 16:44:10 : HttpServer:   connection  28  destroyed
+[WARNING]2025-12-19 16:44:10 : close 
+[INFO]2025-12-19 16:44:10 : HttpServer:   new   connection  27  established
+[INFO]2025-12-19 16:44:10 : SslConnection:   SSL   handshake   in   progress,   need   more   data
+[INFO]2025-12-19 16:44:10 : SslConnection:   SSL   handshake   completed
+[INFO]2025-12-19 16:44:10 : SslConnection:   TLS   VERSION:    TLSv1.3
+[INFO]2025-12-19 16:44:10 : SslConnection:   TLS   CIPHER:     TLS_AES_128_GCM_SHA256
+[ERROR]2025-12-19 16:44:10 : HttpServer:   route   error
+[INFO]2025-12-19 16:44:10 : HttpServer:   connection  27  destroyed
+[WARNING]2025-12-19 16:44:10 : close 
+[INFO]2025-12-19 16:44:10 : HttpServer:   new   connection  27  established
+[INFO]2025-12-19 16:44:10 : SslConnection:   SSL   handshake   in   progress,   need   more   data
+[INFO]2025-12-19 16:44:10 : SslConnection:   SSL   handshake   completed
+[INFO]2025-12-19 16:44:10 : SslConnection:   TLS   VERSION:    TLSv1.3
+[INFO]2025-12-19 16:44:10 : SslConnection:   TLS   CIPHER:     TLS_AES_128_GCM_SHA256
+[INFO]2025-12-19 16:44:38 : HttpServer:   new   connection  28  established
+[INFO]2025-12-19 16:44:38 : SslConnection:   SSL   handshake   in   progress,   need   more   data
+[INFO]2025-12-19 16:44:38 : SslConnection:   SSL   handshake   completed
+[INFO]2025-12-19 16:44:38 : SslConnection:   TLS   VERSION:    TLSv1.3
+[INFO]2025-12-19 16:44:38 : SslConnection:   TLS   CIPHER:     TLS_AES_128_GCM_SHA256
+[INFO]2025-12-19 16:44:38 : User man logged in successfully.
+[INFO]2025-12-19 16:44:38 : HttpServer:   connection  27  destroyed
+[WARNING]2025-12-19 16:44:38 : close 
+[ERROR]2025-12-19 16:44:38 : HttpServer:   route   error
+[INFO]2025-12-19 16:44:38 : HttpServer:   connection  28  destroyed
+[INFO]2025-12-19 16:44:38 : HttpServer:   new   connection  27  established
+[WARNING]2025-12-19 16:44:38 : close 
+[INFO]2025-12-19 16:44:38 : SslConnection:   SSL   handshake   in   progress,   need   more   data
+[INFO]2025-12-19 16:44:38 : SslConnection:   SSL   handshake   completed
+[INFO]2025-12-19 16:44:38 : SslConnection:   TLS   VERSION:    TLSv1.3
+[INFO]2025-12-19 16:44:38 : SslConnection:   TLS   CIPHER:     TLS_AES_128_GCM_SHA256
+[ERROR]2025-12-19 16:44:38 : HttpServer:   route   error
+[ERROR]2025-12-19 16:44:38 : SslConnection:   SSL_read   error   6
+[INFO]2025-12-19 16:44:38 : HttpServer:   connection  27  destroyed
+[WARNING]2025-12-19 16:44:38 : close 
+[INFO]2025-12-19 16:44:38 : HttpServer:   new   connection  27  established
+[INFO]2025-12-19 16:44:38 : SslConnection:   SSL   handshake   in   progress,   need   more   data
+[INFO]2025-12-19 16:44:38 : SslConnection:   SSL   handshake   completed
+[INFO]2025-12-19 16:44:38 : SslConnection:   TLS   VERSION:    TLSv1.3
+[INFO]2025-12-19 16:44:38 : SslConnection:   TLS   CIPHER:     TLS_AES_128_GCM_SHA256
+[ERROR]2025-12-19 16:44:38 : HttpServer:   route   error
+[INFO]2025-12-19 16:44:38 : HttpServer:   connection  27  destroyed
+[WARNING]2025-12-19 16:44:38 : close 
+[INFO]2025-12-19 16:44:38 : HttpServer:   new   connection  28  established
+[INFO]2025-12-19 16:44:38 : SslConnection:   SSL   handshake   in   progress,   need   more   data
+[INFO]2025-12-19 16:44:38 : SslConnection:   SSL   handshake   completed
+[INFO]2025-12-19 16:44:38 : SslConnection:   TLS   VERSION:    TLSv1.3
+[INFO]2025-12-19 16:44:38 : SslConnection:   TLS   CIPHER:     TLS_AES_128_GCM_SHA256
+[ERROR]2025-12-19 16:44:38 : HttpServer:   route   error
+[INFO]2025-12-19 16:44:38 : HttpServer:   connection  28  destroyed
+[INFO]2025-12-19 16:44:38 : HttpServer:   new   connection  27  established
+[WARNING]2025-12-19 16:44:38 : close 
+[INFO]2025-12-19 16:44:38 : SslConnection:   SSL   handshake   in   progress,   need   more   data
+[INFO]2025-12-19 16:44:38 : SslConnection:   SSL   handshake   completed
+[INFO]2025-12-19 16:44:38 : SslConnection:   TLS   VERSION:    TLSv1.3
+[INFO]2025-12-19 16:44:38 : SslConnection:   TLS   CIPHER:     TLS_AES_128_GCM_SHA256
+[ERROR]2025-12-19 16:44:38 : HttpServer:   route   error
+[INFO]2025-12-19 16:44:38 : HttpServer:   connection  27  destroyed
+[WARNING]2025-12-19 16:44:38 : close 
+[INFO]2025-12-19 16:44:38 : HttpServer:   new   connection  27  established
+[INFO]2025-12-19 16:44:38 : SslConnection:   SSL   handshake   in   progress,   need   more   data
+[INFO]2025-12-19 16:44:38 : SslConnection:   SSL   handshake   completed
+[INFO]2025-12-19 16:44:38 : SslConnection:   TLS   VERSION:    TLSv1.3
+[INFO]2025-12-19 16:44:38 : SslConnection:   TLS   CIPHER:     TLS_AES_128_GCM_SHA256
+[INFO]2025-12-19 16:44:43 : HttpServer:   new   connection  28  established
+[INFO]2025-12-19 16:44:43 : SslConnection:   SSL   handshake   in   progress,   need   more   data
+[INFO]2025-12-19 16:44:43 : SslConnection:   SSL   handshake   completed
+[INFO]2025-12-19 16:44:43 : SslConnection:   TLS   VERSION:    TLSv1.3
+[INFO]2025-12-19 16:44:43 : SslConnection:   TLS   CIPHER:     TLS_AES_128_GCM_SHA256
+[INFO]2025-12-19 16:44:43 : Game started for user 2 against AI.
+[INFO]2025-12-19 16:44:44 : AI made a move for user 2: (0, 0).
+[INFO]2025-12-19 16:44:45 : AI made a move for user 2: (0, 1).
+[INFO]2025-12-19 16:44:45 : AI made a move for user 2: (0, 2).
+[INFO]2025-12-19 16:44:46 : AI made a move for user 2: (0, 3).
+[INFO]2025-12-19 16:44:47 : AI wins the game against user 2.
+[INFO]2025-12-19 16:44:49 : Game restarted for user 2 against AI.

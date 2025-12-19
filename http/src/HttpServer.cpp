@@ -36,13 +36,13 @@ void HttpServer::initSSL()
 
     SSL_CTX_set_security_level(sslCtx_.get(),2);
 
-    if(SSL_CTX_use_certificate_file(sslCtx_.get(), "ssl/localhost.crt", SSL_FILETYPE_PEM)<=0)
+    if(SSL_CTX_use_certificate_file(sslCtx_.get(), "../ssl/localhost.crt", SSL_FILETYPE_PEM)<=0)
     {
         LOG_ERROR("HttpServer:   load   certificate   error\n");
         return;
     }
 
-    if(SSL_CTX_use_PrivateKey_file(sslCtx_.get(), "ssl/localhost.key", SSL_FILETYPE_PEM)<=0)
+    if(SSL_CTX_use_PrivateKey_file(sslCtx_.get(), "../ssl/localhost.key", SSL_FILETYPE_PEM)<=0)
     {
         LOG_ERROR("HttpServer:   load   private   key   error\n");
 

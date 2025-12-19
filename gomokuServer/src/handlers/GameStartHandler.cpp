@@ -27,7 +27,7 @@ void GameStartHandler::handle(const HttpRequest& request,HttpResponse* response)
         return;
     }
 
-    std::ifstream file("resource/ChessGameVsAi.html",std::ios::in|std::ios::binary);
+    std::ifstream file("../resource/ChessGameVsAi.html",std::ios::in|std::ios::binary);
     if(!file.is_open())
     {
         response->setStatusCode(HttpResponse::StatusCode::NotFound);

@@ -1,0 +1,194 @@
+[
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/AiGame.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/gomokuServer/src/AiGame.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/GomokuServer.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/gomokuServer/src/GomokuServer.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/EntryHandler.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/EntryHandler.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameMoveHandler.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameMoveHandler.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameRestartHandler.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameRestartHandler.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameStartHandler.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameStartHandler.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/LoginHandler.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/LoginHandler.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/MenuHandler.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/MenuHandler.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/RegisterHandle.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/RegisterHandle.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/test.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/gomokuServer/src/test.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpContext.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/http/src/HttpContext.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpRequest.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/http/src/HttpRequest.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpResponse.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/http/src/HttpResponse.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpServer.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/http/src/HttpServer.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpSession.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/http/src/HttpSession.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpSessionManager.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/http/src/HttpSessionManager.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Acceptor.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/muduo/src/Acceptor.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Buffer.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/muduo/src/Buffer.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Channel.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/muduo/src/Channel.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/EventLoop.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/muduo/src/EventLoop.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThread.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThread.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThreadPool.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThreadPool.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Logger.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/muduo/src/Logger.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Poller.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/muduo/src/Poller.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/TcpConnection.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/muduo/src/TcpConnection.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/TcpServer.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/muduo/src/TcpServer.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/TimeStamp.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/muduo/src/TimeStamp.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Timer.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/muduo/src/Timer.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/TimerQueue.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/muduo/src/TimerQueue.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.o -c /home/wuconan/codes/MyHttpServer/router/src/Router.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/router/src/Router.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.o -c /home/wuconan/codes/MyHttpServer/sql/src/SqlPool.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/sql/src/SqlPool.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.o"
+},
+{
+  "directory": "/home/wuconan/codes/MyHttpServer/build",
+  "command": "/usr/bin/g++  -I/home/wuconan/codes/MyHttpServer/gomokuServer/include -I/home/wuconan/codes/MyHttpServer/gomokuServer/include/handlers -I/home/wuconan/codes/MyHttpServer/http/include -I/home/wuconan/codes/MyHttpServer/muduo/include -I/home/wuconan/codes/MyHttpServer/router/include -I/home/wuconan/codes/MyHttpServer/sql/include -I/home/wuconan/codes/MyHttpServer/ssl/include  -g -Wall -g -std=gnu++17 -o CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.o -c /home/wuconan/codes/MyHttpServer/ssl/src/SslConnection.cpp",
+  "file": "/home/wuconan/codes/MyHttpServer/ssl/src/SslConnection.cpp",
+  "output": "CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.o"
+}
+]

@@ -5,7 +5,7 @@
 #include <fstream>
 void EntryHandler::handle(const HttpRequest& request, HttpResponse* response)
 {
-    std::ifstream file("resource/entry.html",std::ios::in | std::ios::binary);
+    std::ifstream file("../resource/entry.html",std::ios::in | std::ios::binary);
     if(!file.is_open())
     {
         response->setVersion(request.version());

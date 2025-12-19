@@ -31,7 +31,7 @@ target_include_directories(MyhttpServer PUBLIC
 
 
 
-set(CMAKE_BUILD_TYPE "Release")
+set(CMAKE_BUILD_TYPE "Debug")
 
 
 

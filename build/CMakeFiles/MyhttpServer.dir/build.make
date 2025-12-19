@@ -73,449 +73,449 @@ CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.o: CMakeFiles/MyhttpServ
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.o: /home/wuconan/codes/MyHttpServer/gomokuServer/src/AiGame.cpp
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/AiGame.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/AiGame.cpp
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/AiGame.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/AiGame.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.i
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/AiGame.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/AiGame.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/AiGame.cpp.s
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.o: /home/wuconan/codes/MyHttpServer/gomokuServer/src/GomokuServer.cpp
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/GomokuServer.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/GomokuServer.cpp
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/GomokuServer.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/GomokuServer.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.i
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/GomokuServer.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/GomokuServer.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/GomokuServer.cpp.s
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.o: /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/EntryHandler.cpp
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/EntryHandler.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/EntryHandler.cpp
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/EntryHandler.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/EntryHandler.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.i
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/EntryHandler.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/EntryHandler.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/EntryHandler.cpp.s
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.o: /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameMoveHandler.cpp
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameMoveHandler.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameMoveHandler.cpp
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameMoveHandler.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameMoveHandler.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.i
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameMoveHandler.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameMoveHandler.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameMoveHandler.cpp.s
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.o: /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameRestartHandler.cpp
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameRestartHandler.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameRestartHandler.cpp
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameRestartHandler.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameRestartHandler.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.i
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameRestartHandler.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameRestartHandler.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameRestartHandler.cpp.s
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.o: /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameStartHandler.cpp
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameStartHandler.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameStartHandler.cpp
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameStartHandler.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameStartHandler.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.i
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameStartHandler.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/GameStartHandler.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/GameStartHandler.cpp.s
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.o: /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/LoginHandler.cpp
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/LoginHandler.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/LoginHandler.cpp
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/LoginHandler.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/LoginHandler.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.i
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/LoginHandler.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/LoginHandler.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/LoginHandler.cpp.s
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.o: /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/MenuHandler.cpp
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/MenuHandler.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/MenuHandler.cpp
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/MenuHandler.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/MenuHandler.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.i
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/MenuHandler.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/MenuHandler.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/MenuHandler.cpp.s
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.o: /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/RegisterHandle.cpp
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/RegisterHandle.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/RegisterHandle.cpp
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/RegisterHandle.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/RegisterHandle.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.i
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/RegisterHandle.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/handlers/RegisterHandle.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/handlers/RegisterHandle.cpp.s
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.o: /home/wuconan/codes/MyHttpServer/gomokuServer/src/test.cpp
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/test.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.o -MF CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.o.d -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.o -c /home/wuconan/codes/MyHttpServer/gomokuServer/src/test.cpp
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/test.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/gomokuServer/src/test.cpp > CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.i
 
 CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/test.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/gomokuServer/src/test.cpp -o CMakeFiles/MyhttpServer.dir/gomokuServer/src/test.cpp.s
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.o: /home/wuconan/codes/MyHttpServer/http/src/HttpContext.cpp
 CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.o -MF CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.o.d -o CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpContext.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.o -MF CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.o.d -o CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpContext.cpp
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/http/src/HttpContext.cpp > CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/http/src/HttpContext.cpp > CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.i
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/http/src/HttpContext.cpp -o CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/http/src/HttpContext.cpp -o CMakeFiles/MyhttpServer.dir/http/src/HttpContext.cpp.s
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.o: /home/wuconan/codes/MyHttpServer/http/src/HttpRequest.cpp
 CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.o -MF CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.o.d -o CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpRequest.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.o -MF CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.o.d -o CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpRequest.cpp
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/http/src/HttpRequest.cpp > CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/http/src/HttpRequest.cpp > CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.i
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/http/src/HttpRequest.cpp -o CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/http/src/HttpRequest.cpp -o CMakeFiles/MyhttpServer.dir/http/src/HttpRequest.cpp.s
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.o: /home/wuconan/codes/MyHttpServer/http/src/HttpResponse.cpp
 CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.o -MF CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.o.d -o CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpResponse.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.o -MF CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.o.d -o CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpResponse.cpp
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/http/src/HttpResponse.cpp > CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/http/src/HttpResponse.cpp > CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.i
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/http/src/HttpResponse.cpp -o CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/http/src/HttpResponse.cpp -o CMakeFiles/MyhttpServer.dir/http/src/HttpResponse.cpp.s
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.o: /home/wuconan/codes/MyHttpServer/http/src/HttpServer.cpp
 CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.o -MF CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.o.d -o CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpServer.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.o -MF CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.o.d -o CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpServer.cpp
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/http/src/HttpServer.cpp > CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/http/src/HttpServer.cpp > CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.i
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/http/src/HttpServer.cpp -o CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/http/src/HttpServer.cpp -o CMakeFiles/MyhttpServer.dir/http/src/HttpServer.cpp.s
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.o: /home/wuconan/codes/MyHttpServer/http/src/HttpSession.cpp
 CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.o -MF CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.o.d -o CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpSession.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.o -MF CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.o.d -o CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpSession.cpp
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/http/src/HttpSession.cpp > CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/http/src/HttpSession.cpp > CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.i
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/http/src/HttpSession.cpp -o CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/http/src/HttpSession.cpp -o CMakeFiles/MyhttpServer.dir/http/src/HttpSession.cpp.s
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.o: /home/wuconan/codes/MyHttpServer/http/src/HttpSessionManager.cpp
 CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.o -MF CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.o.d -o CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpSessionManager.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.o -MF CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.o.d -o CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.o -c /home/wuconan/codes/MyHttpServer/http/src/HttpSessionManager.cpp
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/http/src/HttpSessionManager.cpp > CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/http/src/HttpSessionManager.cpp > CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.i
 
 CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/http/src/HttpSessionManager.cpp -o CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/http/src/HttpSessionManager.cpp -o CMakeFiles/MyhttpServer.dir/http/src/HttpSessionManager.cpp.s
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.o: /home/wuconan/codes/MyHttpServer/muduo/src/Acceptor.cpp
 CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Acceptor.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Acceptor.cpp
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/Acceptor.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/Acceptor.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.i
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/Acceptor.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/Acceptor.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/Acceptor.cpp.s
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.o: /home/wuconan/codes/MyHttpServer/muduo/src/Buffer.cpp
 CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Buffer.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Buffer.cpp
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/Buffer.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/Buffer.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.i
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/Buffer.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/Buffer.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/Buffer.cpp.s
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.o: /home/wuconan/codes/MyHttpServer/muduo/src/Channel.cpp
 CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Channel.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Channel.cpp
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/Channel.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/Channel.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.i
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/Channel.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/Channel.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/Channel.cpp.s
 
 CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.o: /home/wuconan/codes/MyHttpServer/muduo/src/EventLoop.cpp
 CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/EventLoop.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/EventLoop.cpp
 
 CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/EventLoop.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/EventLoop.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.i
 
 CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/EventLoop.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/EventLoop.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/EventLoop.cpp.s
 
 CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.o: /home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThread.cpp
 CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThread.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThread.cpp
 
 CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThread.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThread.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.i
 
 CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThread.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThread.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThread.cpp.s
 
 CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.o: /home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThreadPool.cpp
 CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThreadPool.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThreadPool.cpp
 
 CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThreadPool.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThreadPool.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.i
 
 CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThreadPool.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/EventLoopThreadPool.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/EventLoopThreadPool.cpp.s
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.o: /home/wuconan/codes/MyHttpServer/muduo/src/Logger.cpp
 CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Logger.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Logger.cpp
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/Logger.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/Logger.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.i
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/Logger.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/Logger.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/Logger.cpp.s
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.o: /home/wuconan/codes/MyHttpServer/muduo/src/Poller.cpp
 CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Poller.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Poller.cpp
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/Poller.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/Poller.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.i
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/Poller.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/Poller.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/Poller.cpp.s
 
 CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.o: /home/wuconan/codes/MyHttpServer/muduo/src/TcpConnection.cpp
 CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/TcpConnection.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/TcpConnection.cpp
 
 CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/TcpConnection.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/TcpConnection.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.i
 
 CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/TcpConnection.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/TcpConnection.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/TcpConnection.cpp.s
 
 CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.o: /home/wuconan/codes/MyHttpServer/muduo/src/TcpServer.cpp
 CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/TcpServer.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/TcpServer.cpp
 
 CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/TcpServer.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/TcpServer.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.i
 
 CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/TcpServer.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/TcpServer.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/TcpServer.cpp.s
 
 CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.o: /home/wuconan/codes/MyHttpServer/muduo/src/TimeStamp.cpp
 CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/TimeStamp.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/TimeStamp.cpp
 
 CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/TimeStamp.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/TimeStamp.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.i
 
 CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/TimeStamp.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/TimeStamp.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/TimeStamp.cpp.s
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.o: /home/wuconan/codes/MyHttpServer/muduo/src/Timer.cpp
 CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Timer.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/Timer.cpp
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/Timer.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/Timer.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.i
 
 CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/Timer.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/Timer.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/Timer.cpp.s
 
 CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.o: /home/wuconan/codes/MyHttpServer/muduo/src/TimerQueue.cpp
 CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/TimerQueue.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.o -MF CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.o.d -o CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.o -c /home/wuconan/codes/MyHttpServer/muduo/src/TimerQueue.cpp
 
 CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/TimerQueue.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/muduo/src/TimerQueue.cpp > CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.i
 
 CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/TimerQueue.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/muduo/src/TimerQueue.cpp -o CMakeFiles/MyhttpServer.dir/muduo/src/TimerQueue.cpp.s
 
 CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.o: /home/wuconan/codes/MyHttpServer/router/src/Router.cpp
 CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.o -MF CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.o.d -o CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.o -c /home/wuconan/codes/MyHttpServer/router/src/Router.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.o -MF CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.o.d -o CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.o -c /home/wuconan/codes/MyHttpServer/router/src/Router.cpp
 
 CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/router/src/Router.cpp > CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/router/src/Router.cpp > CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.i
 
 CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/router/src/Router.cpp -o CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/router/src/Router.cpp -o CMakeFiles/MyhttpServer.dir/router/src/Router.cpp.s
 
 CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.o: /home/wuconan/codes/MyHttpServer/sql/src/SqlPool.cpp
 CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.o -MF CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.o.d -o CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.o -c /home/wuconan/codes/MyHttpServer/sql/src/SqlPool.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.o -MF CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.o.d -o CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.o -c /home/wuconan/codes/MyHttpServer/sql/src/SqlPool.cpp
 
 CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/sql/src/SqlPool.cpp > CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/sql/src/SqlPool.cpp > CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.i
 
 CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/sql/src/SqlPool.cpp -o CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/sql/src/SqlPool.cpp -o CMakeFiles/MyhttpServer.dir/sql/src/SqlPool.cpp.s
 
 CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.o: CMakeFiles/MyhttpServer.dir/flags.make
 CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.o: /home/wuconan/codes/MyHttpServer/ssl/src/SslConnection.cpp
 CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.o: CMakeFiles/MyhttpServer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/wuconan/codes/MyHttpServer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.o -MF CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.o.d -o CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.o -c /home/wuconan/codes/MyHttpServer/ssl/src/SslConnection.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.o -MF CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.o.d -o CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.o -c /home/wuconan/codes/MyHttpServer/ssl/src/SslConnection.cpp
 
 CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/ssl/src/SslConnection.cpp > CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wuconan/codes/MyHttpServer/ssl/src/SslConnection.cpp > CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.i
 
 CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/ssl/src/SslConnection.cpp -o CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wuconan/codes/MyHttpServer/ssl/src/SslConnection.cpp -o CMakeFiles/MyhttpServer.dir/ssl/src/SslConnection.cpp.s
 
 # Object files for target MyhttpServer
 MyhttpServer_OBJECTS = \
